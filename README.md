@@ -37,7 +37,9 @@ STRUKTUR PROYEK
 
 - scaler.pkl: File untuk normalisasi dan penskalaan data input.
 
-- personality_dataset.csv: Dataset utama yang digunakan untuk pengembangan model.
+- feature_names.pkl: Daftar nama fitur yang digunakan dalam model.
+
+- range_info.pkl: Metadata mengenai rentang nilai untuk setiap variabel input.
 
 - requirements.txt: Daftar pustaka Python yang diperlukan untuk menjalankan proyek.
 
@@ -53,4 +55,3 @@ pip install -r requirements.txt
 3. Jalankan Aplikasi
 Gunakan perintah berikut dan akses aplikasi melalui alamat http://localhost:8501:
 streamlit run app.py
-
