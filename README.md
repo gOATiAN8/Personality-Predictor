@@ -45,8 +45,6 @@ STRUKTUR PROYEK
 PANDUAN INSTALASI LOKAL
 
 1. Clone Repository
-Lakukan clone pada repositori ini menggunakan perintah:
-git clone https://github.com/goATIAN8/Personality-Predictor-main.git
 
 2. Instalasi Library
 Jalankan perintah berikut pada terminal untuk memasang semua dependensi:
